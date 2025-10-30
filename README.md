@@ -1,4 +1,4 @@
-# Attacking-ECB-Oracles
+# Attacking-ECB-Oracles-&-Bit-Flipping
 1. PoC: Automating Attack Chosen Plaintext - Oracle ECB
 
 ![Imagen](Imagenes/Imagen1.png)
